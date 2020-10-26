@@ -5,7 +5,6 @@ import Services from "../components/Services";
 export default function IndexPage() {
   return (
     <div>
-      <Services />
       <Welcome />
     </div>
   );
